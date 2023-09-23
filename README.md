@@ -5,7 +5,7 @@ The content of this repository represents my usefully spent time.
 ## Contents  
 [0. Algorithm for guessing a randomly chosen number.](#project-0-auto-guessing-a-random-num)  
 
-### [Project-0. Auto-guessing a random num.](https://github.com/Akialema/) 
+### [Project-0. Auto-guessing a random num.](https://github.com/Akialema/PROJECTS.EDU/tree/main/Project-0:Game_Guess_number_auto) 
 
 The project was actually supposed to be called 'Guess the Number Game,' but...
 
