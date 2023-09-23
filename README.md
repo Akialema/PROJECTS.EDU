@@ -30,4 +30,4 @@ If you found the content from this repository interesting or helpful, I would gr
 
 ---
 
-⬅️ [BACK TO REPO](https://github.com/Akialema/PROJECTS.EDU/tree/main) ⬅️
+⬅️ [BACK TO MAIN PAGE](https://github.com/Akialema) ⬅️
