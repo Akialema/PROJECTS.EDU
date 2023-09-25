@@ -36,6 +36,9 @@
 
 :arrow_up:[к оглавлению](#Оглавление)
 
+### P.S.
+Если вам лениво читать мои ваяния тут, клонировать.. скачивать.. вот [ссылка на колаб](https://colab.research.google.com/drive/1zdOpD3N8QSxFLvlxs515cYC9czoalhXT?usp=sharing).
+
 ---
 
 ⬅️ [BACK TO REPO](https://github.com/Akialema/PROJECTS.EDU/tree/main) ⬅️
