@@ -14,25 +14,25 @@
 База содержит 5 таблиц:
 1. **VACANCIES**  
 Таблица хранит в себе данные по вакансиям:  
-<img src = proj_pics\vacancies.png alt="drawing" style="width:70%;">  
+<img src="proj_pics/vacancies.png" width="70%">  
 Зарплатная вилка — это верхняя и нижняя граница оплаты труда в рублях (зарплаты в других валютах уже переведены в рубли). Соискателям она показывает, в каком диапазоне компания готова платить сотруднику на этой должности.<br><br>
 
 2. **AREAS**  
 Таблица-справочник, которая хранит код региона и его название.  
-<img src = proj_pics\areas.png alt="drawing" style="width:70%;"><br><br>
+<img src="proj_pics/areas.png" width="70%"><br><br>
 
 3. **EMPLOYERS**  
 Таблица-справочник со списком работодателей.  
-<img src = proj_pics\employers.png alt="drawing" style="width:70%;"><br><br>
+<img src="proj_pics/employers.png" width="70%"><br><br>
 
 4. **INDUSTRIES**  
 Таблица-справочник вариантов сфер деятельности работодателей.  
-<img src = proj_pics\employers.png alt="drawing" style="width:70%;"><br><br>
+<img src="proj_pics/industries.png" width="70%"><br><br>
 
 5. **EMPLOYERS_INDUSTRIES**  
 Дополнительная таблица, которая существует для организации связи между работодателями и сферами их деятельности. <br><br>
 Эта таблица нужна нам, поскольку у одного работодателя может быть несколько сфер деятельности (или работодатели могут вовсе не указать их). Для удобства анализа необходимо хранить запись по каждой сфере каждого работодателя в отдельной строке таблицы.  
-<img src = proj_pics\employers_industries.png alt="drawing" style="width:70%;"><br><br>
+<img src="proj_pics/employers_industries.png" width="70%"><br><br>
 
 Карта взаимосвязей:  
 <p align="center">
