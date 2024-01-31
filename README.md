@@ -15,15 +15,11 @@ The project was actually supposed to be called 'Guess the Number Game,' but...
 
 Here is an algorithm, as implied by the name, that randomly selects a number and attempts to guess it within N tries. In other words, two `np.random.randint()` functions try to become friends with each other.))
 
-:arrow_up:[to contents](#contents)
-
 ---
 
 ### 1️⃣ [Project-1. HH database analytics.](https://github.com/Akialema/PROJECTS.EDU/tree/main/Project-1%3AHeadHunter_database_analytics)
 
 This project is about... basic table transformation, feature preprocessing for further analysis, primary graphs and preliminary data cleansing.
-
-:arrow_up:[to contents](#contents)
 
 ---
 
