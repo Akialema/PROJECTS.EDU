@@ -9,7 +9,7 @@ The content of this repository represents my usefully spent time.
 
 ![gif](https://media.tenor.com/Zuq032763-cAAAAC/loading.gif)
 
-### 0️⃣ [Project-0. Auto-guessing a random num.](https://github.com/Akialema/PROJECTS.EDU/tree/main/Project-0%3AGame_Guess_number_auto)
+### 0️⃣ [Project-0. Auto-guessing a random num.](https://github.com/Akialema/PROJECTS.EDU/tree/main/0.Project-0%3AGame_Guess_number_auto)
 
 The project was actually supposed to be called 'Guess the Number Game,' but...
 
@@ -17,13 +17,13 @@ Here is an algorithm, as implied by the name, that randomly selects a number and
 
 ---
 
-### 1️⃣ [Project-1. HH database analytics.](https://github.com/Akialema/PROJECTS.EDU/tree/main/Project-1%3AHeadHunter_database_analytics)
+### 1️⃣ [Project-1. HH database analytics.](https://github.com/Akialema/PROJECTS.EDU/tree/main/1.Project-1%3AHeadHunter_database_analytics)
 
 This project is about... basic table transformation, feature preprocessing for further analysis, primary graphs and preliminary data cleansing.
 
 ---
 
-### 2️⃣ [Project-2. HH jobs SQL analytics.](https://github.com/Akialema/PROJECTS.EDU/tree/main/Project-2%3AHH_sql_jobs_analytics)
+### 2️⃣ [Project-2. HH jobs SQL analytics.](https://github.com/Akialema/PROJECTS.EDU/tree/main/2.Project-2%3AHH_sql_jobs_analytics)
 
 The project is aimed at training the skill of interacting with a PostgreSQL database using the example of the HeadHunter job vacancy database.
 
