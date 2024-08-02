@@ -6,8 +6,8 @@ The content of this repository represents my usefully spent time.
 [0. Algorithm for guessing a randomly chosen number.](#0️⃣-project-0-auto-guessing-a-random-num)  
 [1. HeadHunter database analytics.☕](#1️⃣-project-1-hh-database-analytics)  
 [2. HeadHunter jobs SQL analytics.](#2️⃣-project-2-hh-jobs-sql-analytics)  
-[3. Booking reviewer score prediction.☕](#3️⃣-project-3-booking-reviewer-score-prediction)
-[4. Classification task.☕](#4️⃣-project-4-classification-task-bank)  
+[3. Booking reviewer score prediction.☕](#3️⃣-project-3-booking-reviewer-score-prediction)  
+[4. Classification task.☕](#4️⃣-project-4-classification-task)  
 
 ![gif](https://media.tenor.com/Zuq032763-cAAAAC/loading.gif)
 
@@ -37,7 +37,7 @@ Here you can find my attempt to predict user ratings of hotels on the Booking.co
 
 ---
 
-### 4️⃣ [Project-4. Classification task.](https://github.com/Akialema/PROJECTS.EDU/tree/main/4.Project-4%3Aclassification_task_bank)
+### 4️⃣ [Project-4. Classification task.](https://github.com/Akialema/PROJECTS.EDU/tree/main/4.Project-4%3AClassification_task_bank)
 
 An example of solving a classification problem to predict whether a client will open a deposit or not. 
 
