@@ -40,4 +40,6 @@ If u will need collab notebook just tell me.)
 
 ---
 
+P.S. Если вы решите скачать и озакомиться с данным моим ваянием, то рекомендую тёмную тему.
+
 ⬅️ [BACK TO REPO](https://github.com/Akialema/PROJECTS.EDU/tree/main) ⬅️
