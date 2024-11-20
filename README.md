@@ -7,7 +7,8 @@ The content of this repository represents my usefully spent time.
 [1. HeadHunter database analytics.☕](#1️⃣-project-1-hh-database-analytics)  
 [2. HeadHunter jobs SQL analytics.](#2️⃣-project-2-hh-jobs-sql-analytics)  
 [3. Booking reviewer score prediction.☕](#3️⃣-project-3-booking-reviewer-score-prediction)  
-[4. Classification task.☕](#4️⃣-project-4-classification-task)  
+[4. Classification task.](#4️⃣-project-4-classification-task)  
+[5. New York taxi trip duration prediction.](#5️⃣-project-5-new-york-taxi-trip-duration-prediction)  
 
 ![gif](https://media.tenor.com/Zuq032763-cAAAAC/loading.gif)
 
@@ -40,6 +41,12 @@ Here you can find my attempt to predict user ratings of hotels on the Booking.co
 ### 4️⃣ [Project-4. Classification task.](https://github.com/Akialema/PROJECTS.EDU/tree/main/4.Project-4%3AClassification_task_bank)
 
 An example of solving a classification problem to predict whether a client will open a deposit or not. 
+
+---
+
+### 5️⃣ [Project-5. New York taxi trip duration prediction.](https://github.com/Akialema/PROJECTS.EDU/tree/main/5.Project-5%3ATaxi_trip_duration)
+
+Training in building regression models using the example of the kaggle competition: predicting the duration of a taxi ride in New York.
 
 ---
 
