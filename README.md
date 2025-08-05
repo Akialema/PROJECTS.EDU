@@ -100,7 +100,7 @@ The project focuses on building a model to predict whether a user will make a pu
 
 The project focuses on building a classification model to predict customer churn for a bank. The bank aims to develop a loyalty campaign and retain its clients, so it is essential to identify those who are likely to leave in the near future. The task involves creating a model that can predict churn probabilities, evaluating the model’s performance, and interpreting the results to support data-driven decisions for improving customer retention.
 
-### [Spam or not spam classification](https://github.com/Akialema/PROJECTS.EDU/tree/main/spam_or_not_spam_classification)
+### [Spam or not spam classification](https://github.com/Akialema/PROJECTS.EDU/tree/main/spam_or_not_classification)
 
 The name speaks for itself.
 
