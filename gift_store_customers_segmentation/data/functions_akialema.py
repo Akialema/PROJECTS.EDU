@@ -445,18 +445,3 @@ def print_metrics(y_test, y_test_pred, list_of_metrics, y_train=None, y_train_pr
         func_df = pd.DataFrame(data, index=func_list_of_metrics, columns=columns)
     
     return func_df
-
-#####################################
-
-def to_markdown_table(a, b):
-    max_a = max(len(str(i)) for i in a + ['Вопрос'])
-    max_b = max(len(str(i)) for i in b + ['Ответ'])
-
-    row_template = f"| {{:<{max_a}}} | {{:<{max_b}}} |"
-    separator = f"|{'-' * (max_a + 2)}|{'-' * (max_b + 2)}|"
-
-    lines = [row_template.format("Вопрос", "Ответ"), separator]
-    for q, ans in zip(a, b):
-        lines.append(row_template.format(str(q), str(ans)))
-    
-    return "\n".join(lines)
